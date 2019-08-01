@@ -1,10 +1,25 @@
-Project Title
-One Paragraph of project description goes here
+#Module-9-IBM-Capstone-Project-Notebook
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Week 1 - Introduction to Capstone Project
+Introduction to Capstone Project
+Location Data Providers
+Signing-up for a Watson Studio Account
+Peer-review Assignment: Capstone Project Notebook
 
-Prerequisites
-What things you need to install the software and how to install them
+Week 2 - Foursquare API
+Introduction to Foursquare
+Getting Foursquare API Credentials
+Using Foursquare API
+Lab: Foursquare API
+Quiz: Foursquare API
 
-Give examples
+Week 3 - Neighborhood Segmentation and Clustering
+Clustering
+Lab: Clustering
+Lab: Segmenting and Clustering Neighborhoods in New York City
+Peer-review Assignment: Scraping Postal Codes from Wikipedia
+
+Week 4 - Capstone Project: The Battle of Neighborhoods
+Week 5 - Capstone Project: The Battle of Neighborhoods (Cont'd)
+
+ 
