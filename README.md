@@ -1,23 +1,10 @@
-# Module-9-IBM-Capstone-Project-Notebook
-Coursera_Capstone
-Repository for Coursera's IBM Applied Data Science Capstone
+Project Title
+One Paragraph of project description goes here
 
-Course Contents:
-Week 1 - Introduction to Capstone Project
-Introduction to Capstone Project
-Location Data Providers
-Signing-up for a Watson Studio Account
-Peer-review Assignment: Capstone Project Notebook
-Week 2 - Foursquare API
-Introduction to Foursquare
-Getting Foursquare API Credentials
-Using Foursquare API
-Lab: Foursquare API
-Quiz: Foursquare API
-Week 3 - Neighborhood Segmentation and Clustering
-Clustering
-Lab: Clustering
-Lab: Segmenting and Clustering Neighborhoods in New York City
-Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
-Week 4 - Capstone Project
-Week 5 - Capstone Project (Cont'd
+Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+Prerequisites
+What things you need to install the software and how to install them
+
+Give examples
