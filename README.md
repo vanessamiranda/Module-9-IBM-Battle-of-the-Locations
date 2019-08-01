@@ -1,10 +1,10 @@
 #Module-9-IBM-Capstone-Project-Notebook
 
 Week 1 - Introduction to Capstone Project
-Introduction to Capstone Project
-Location Data Providers
-Signing-up for a Watson Studio Account
-Peer-review Assignment: Capstone Project Notebook
+#Introduction to Capstone Project
+#Location Data Providers
+#Signing-up for a Watson Studio Account
+#Peer-review Assignment: Capstone Project Notebook
 
 Week 2 - Foursquare API
 Introduction to Foursquare
