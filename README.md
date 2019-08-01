@@ -7,8 +7,8 @@
 * Peer-review Assignment: Capstone Project Notebook
 
 **Week 2 - Foursquare API**
-1.Introduction to Foursquare
-1.Getting Foursquare API Credentials
+1. Introduction to Foursquare
+1. Getting Foursquare API Credentials
 1.Using Foursquare API
 1.Lab: Foursquare API
 1.Quiz: Foursquare API
