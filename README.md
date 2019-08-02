@@ -19,8 +19,8 @@
 * Lab: Segmenting and Clustering Neighborhoods in New York City
 * Peer-review Assignment: Scraping Postal Codes from Wikipedia
 
-*Week 4 - Capstone Project: The Battle of Neighborhoods
+*Week 4 - Capstone Project: The Battle of Neighborhoods*
 
-*Week 5 - Capstone Project: The Battle of Neighborhoods (Cont'd)
+*Week 5 - Capstone Project: The Battle of Neighborhoods (Cont'd)*
 
  
