@@ -1,5 +1,4 @@
-**Module-9-IBM-Capstone-Project-Notebook**
-* Repository for Coursera's IBM Applied Data Science Capstone
+**Module-9-IBM-Capstone-Project-Notebook** - Repository for Coursera's IBM Applied Data Science Capstone
 
 
 
