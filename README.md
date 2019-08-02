@@ -22,6 +22,8 @@
 * Peer-review Assignment: Scraping Postal Codes from Wikipedia
 
 *Week 4 - Capstone Project: The Battle of Neighborhoods*
+* Part a- Discuss the business problem of this project
+* Part b- Describe the data that will be used to solve the problem and the source of the data
 
 *Week 5 - Capstone Project: The Battle of Neighborhoods (Cont'd)*
 
