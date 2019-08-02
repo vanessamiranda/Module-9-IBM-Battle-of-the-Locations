@@ -1,4 +1,5 @@
 **Module-9-IBM-Capstone-Project-Notebook**
+* Repository for Coursera's IBM Applied Data Science Capstone
 
 *Week 1 - Introduction to Capstone Project*
 * Introduction to Capstone Project
