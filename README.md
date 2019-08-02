@@ -1,25 +1,26 @@
-*Module-9-IBM-Capstone-Project-Notebook*
+**Module-9-IBM-Capstone-Project-Notebook*
 
-**Week 1 - Introduction to Capstone Project**
+*Week 1 - Introduction to Capstone Project**
 * Introduction to Capstone Project
 * Location Data Providers
 * Signing-up for a Watson Studio Account
 * Peer-review Assignment: Capstone Project Notebook
 
-**Week 2 - Foursquare API**
-1. Introduction to Foursquare
-1. Getting Foursquare API Credentials
-1.Using Foursquare API
-1.Lab: Foursquare API
-1.Quiz: Foursquare API
+*Week 2 - Foursquare API**
+* Introduction to Foursquare
+* Getting Foursquare API Credentials
+* Using Foursquare API
+* Lab: Foursquare API
+* Quiz: Foursquare API
 
-**Week 3 - Neighborhood Segmentation and Clustering**
-1.Clustering
-1.Lab: Clustering
-1.Lab: Segmenting and Clustering Neighborhoods in New York City
-1.Peer-review Assignment: Scraping Postal Codes from Wikipedia
+*Week 3 - Neighborhood Segmentation and Clustering**
+* Clustering
+* Lab: Clustering
+* Lab: Segmenting and Clustering Neighborhoods in New York City
+* Peer-review Assignment: Scraping Postal Codes from Wikipedia
 
-**Week 4 - Capstone Project: The Battle of Neighborhoods
-Week 5 - Capstone Project: The Battle of Neighborhoods (Cont'd)
+*Week 4 - Capstone Project: The Battle of Neighborhoods
+
+*Week 5 - Capstone Project: The Battle of Neighborhoods (Cont'd)
 
  
