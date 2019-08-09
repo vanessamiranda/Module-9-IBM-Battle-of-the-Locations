@@ -1,3 +1,5 @@
+This file, and other associated files, make up my contribution to my final Assignment for the Coursera Capstone Project for Applied Data Science Capstone. This is my final module in the IBM Data Science Professional Certificate programme.
+
 **Module-9-IBM-Capstone-Project-Notebook** - Repository for Coursera's IBM Applied Data Science Capstone
 
 *Week 4 - Capstone Project: The Battle of Neighborhoods*
