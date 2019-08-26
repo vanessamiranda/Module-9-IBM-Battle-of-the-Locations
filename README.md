@@ -2,6 +2,10 @@ This file, and other associated files, makes up my contribution to my final Assi
 
 **Module-9-IBM-Capstone-Project-Notebook** - Repository for Coursera's IBM Applied Data Science Capstone
 
+
+
+----
+
 Restaurants are a notoriously difficult business to own or operate. Not only is it a relatively capital and employee-intensive business, restaurants are also highly regulated, low margin and in most cases have a plethora of competition to deal with. There are more dining establishments and more diners now than during any other time in history; the National Restaurant Association reports over 1 million restaurant locations in the U.S. alone, a particular boon considering more than half the American population visits at least one of them each week. To fill a niche and remain relevant, prospective, as well as established, restaurants have to hedge their bets with well-rounded and well-directed dataset. Data science provides valuable insights regarding market trends and evolving consumer lifestyles so that restaurateurs can better address and meet public demand.
 
 **Business Problem**
