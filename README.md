@@ -27,6 +27,6 @@ Before opening a new restaurant in NYC, the data science team will provide data 
 
 Data source:[https://en.wikipedia.org/wiki/New_York_City](https://en.wikipedia.org/wiki/New_York_City) ; [https://en.wikipedia.org/wiki/Demographics_of_New_York_City](https://en.wikipedia.org/wiki/Demographics_of_New_York_City). Web scraping techniques was used to get NYC's population density and demographics data from Wikipedia. Preliminary finding indicates that Queens being the second most populous urban area in New York City (NYC), behind Brooklyn; and the most ethnically diverse urban area in NYC with the highest Asian ethnic minority population. [Click here](https://github.com/vanessamiranda/Module-9-IBM-Applied-Data-Science-Capstone/blob/master/New%20York%20city%20%20population%20and%20demographic%20data.ipynb) to view Python's script.
 
-* Part 2: Who are the competitors in that location? (*coming soon*)
+* Part 2: Who are the competitors in that location?  
 
 Data source:[https://cocl.us/new_york_dataset](https://cocl.us/new_york_dataset) and Foursquare API. These dataset was used to explore various neighbourhoods and each Indian restaurants venues in the neighbourhood. [Click here](https://vanessamiranda.github.io/_pages/2019-08-26-Battle_of_the_Locationsv1.html) to view Python's script.
