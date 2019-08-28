@@ -29,4 +29,4 @@ Data source:[https://en.wikipedia.org/wiki/New_York_City](https://en.wikipedia.o
 
 * Part 2: Who are the competitors in that location?  
 
-Data source:[https://cocl.us/new_york_dataset](https://cocl.us/new_york_dataset) and Foursquare API. These dataset was used to explore various neighbourhoods and each Indian restaurants venues in the neighbourhood. [Click here](https://vanessamiranda.github.io/_pages/2019-08-26-Battle_of_the_Locationsv1.html) to view Python's script.
+Data source:[https://cocl.us/new_york_dataset](https://cocl.us/new_york_dataset) and Foursquare API. These dataset was used to explore various neighbourhoods and each Indian restaurants venues in the neighbourhood. [Click here](https://github.com/vanessamiranda/Module-9-IBM-Battle-of-the-Locations/blob/master/Neighborhoods%20using%20FourSquare%20API.ipynb) to view Python's script.
