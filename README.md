@@ -30,3 +30,12 @@ Data source:[https://en.wikipedia.org/wiki/New_York_City](https://en.wikipedia.o
 * Part 2: Who are the competitors in that location?  
 
 Data source:[https://cocl.us/new_york_dataset](https://cocl.us/new_york_dataset) and Foursquare API. These dataset was used to explore various neighbourhoods and each Indian restaurants venues in the neighbourhood. [Click here](https://github.com/vanessamiranda/Module-9-IBM-Battle-of-the-Locations/blob/master/Neighborhoods%20using%20FourSquare%20API.ipynb) to view Python's script.
+
+**Recommendations**
+
+Midtown or Tribeca in Manhattan would be the best choice to start an Indian restaurant given that:-
+
+1. it is the third most populous urban area in New York City (NYC).
+2. it has a population density of 27,826 people per square km, highest of any borough in the United States.
+3. it has the second highest Asian ethnic minority population in NYC.
+4. it has some of the top rated Indian restaurants located in that area (i.e. ready-made customer base).
